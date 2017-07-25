@@ -1,0 +1,6 @@
+Set input to yes/continue
+repeat while user says yes or enters invalid options
+	prompt user for input
+	if yes, continue/reprompt
+	if no, quit/end
+	if invalid, note error and continue/reprompt

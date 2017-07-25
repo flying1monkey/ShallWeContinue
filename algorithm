@@ -1,0 +1,6 @@
+Prompt user
+Get input from user
+Check for three things:
+	Yes-'y'-continue
+	No-'n'-end
+	Other-Error message and reprompt
